@@ -11,7 +11,7 @@ Implementation of the following algorithms:
 - [x] Probabilistic Data Association Filter (PDA)
 - [x] Gaussian Sum Filter (GSF)
 
-The main class is located at [SA2/singleobjectracker.m](./SA2/singleobjectracker.m)
+The main class is located at [SA2/singleobjectracker.p](./SA2/singleobjectracker.p)
 
 Simulations can be done using  [SA2/simulation1.mlx](./SA2/simulation1.mlx) 
 
@@ -23,7 +23,7 @@ Implementation of the following algorithms:
 - [x] Joint Probabilistic Data Association Filter (JPDA)
 - [x] Track-oriented Multiple Hypothesis Tracker (TO-MHT)
 
-The main class is located at [SA3/n_objectracker.m](./SA3/n_objectracker.m)
+The main class is located at [SA3/n_objectracker.p](./SA3/n_objectracker.p)
 
 Simulations can be done using  [SA3/simulation2.mlx](./SA3/simulation2.mlx) 
 
@@ -33,7 +33,7 @@ Simulations can be done using  [SA3/simulation2.mlx](./SA3/simulation2.mlx)
 Implementation of the following algorithms:
 - [x] Probability Hypothesis Density Filter (PHD)
 
-The main class is located at [SA4/PHDfilter.m](./SA4/PHDfilter.m)
+The main class is located at [SA4/PHDfilter.p](./SA4/PHDfilter.p)
 
 Simulations can be done using  [SA4/simulation3.mlx](./SA4/simulation3.mlx) 
 
@@ -49,7 +49,7 @@ Cardinality Estimation             |  GOSPA
 Implementation of the following algorithms:
 - [x] Poisson Multi-Bernoulli Mixture filter (PMBM)
 
-The main class is located at [SA5/PMBMfilter.m](./SA5/PMBMfilter.m)
+The main class is located at [SA5/PMBMfilter.p](./SA5/PMBMfilter.p)
 
 Simulations can be done using  [SA5/simulation4.mlx](./SA5/simulation4.mlx)
 
